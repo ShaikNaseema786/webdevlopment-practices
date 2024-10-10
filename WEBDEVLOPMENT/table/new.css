@@ -1,0 +1,19 @@
+body{
+    margin:0;
+}
+.loader{
+    border: 5px solid black;
+    height: 150px;
+    width: 150px;
+    border-top: 5px solid red;
+    border-radius: 50%;
+    animation: something 1s linear infinite;
+}
+@keyframes something{
+    0%{
+        rotate:0deg;
+    }
+    100%{
+        rotate: 360deg;
+    }
+}

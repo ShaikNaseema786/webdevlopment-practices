@@ -1,0 +1,14 @@
+h1{
+    color:rgb(177, 114, 37);
+}
+p{
+    color:blueviolet;
+}
+
+.my_class{
+    background-color: rgb(172, 54, 54);
+    height: 50vh;
+    text-align: center;
+    text-decoration-color:burlywood ;
+
+}

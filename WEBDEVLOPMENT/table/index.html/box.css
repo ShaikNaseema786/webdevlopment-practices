@@ -1,0 +1,14 @@
+.box{
+    border-bottom: #8d1573;
+    border-top: papayawhip;
+    border-width: 8px;
+    border-style:solid;
+    padding-top: 250px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 50px;
+    margin: 50px;
+    text-align: center;
+    height: 98vh;
+
+}

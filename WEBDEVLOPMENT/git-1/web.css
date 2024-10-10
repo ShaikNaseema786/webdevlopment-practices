@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+}
+.navbar{
+    background-color: rgb(201, 170, 187);
+    position: fixed;
+    overflow: hidden;
+    width: 100%;
+}
+
+.navbar a{
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    padding: 6px;
+    color: rgb(32, 23, 6);
+    margin: 9px;
+     text-shadow: 10px 11px 12px 43px ;
+    float:left;
+    font-size: 18px;
+    font-family: 'Quicksand', Courier, monospace;
+}a:hover{
+    background-color: black;
+}
+a:active{
+    background-color: brown;
+}
+.nature{
+    
+    padding-top: 200px;
+    padding-left: 200px;
+}

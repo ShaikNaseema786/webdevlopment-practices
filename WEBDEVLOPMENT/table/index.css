@@ -1,0 +1,37 @@
+.navbar{
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between;
+    background-color: aqua;
+    
+}
+.navbar_left{
+    padding-left: 20px;
+}
+.navbar_right{
+    align-items: center;
+    padding-right: 25px;
+    padding-top: 10px;
+    display: flex;
+   flex-direction:row;
+}
+.e_element{
+    padding: 10px;
+    margin: 10px;
+ border: solid rgb(56, 209, 255);
+}
+.home{
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+    height: 20%;
+    border: 2px solid purple;
+}
+.home_right{
+    padding-top:50px;
+    padding-right:100px;
+}
+.home_left{
+    padding-top:50px;
+    padding-right:100px;
+}
